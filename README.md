@@ -1,3 +1,3 @@
-## Neat Driver RL
+# neat-driver
 
-A Reinforcement Learning Driver created in PyGame using NEAT Algorithm
+Self-driving AI using the NEAT algorithm
