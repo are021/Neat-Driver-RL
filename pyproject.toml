@@ -4,6 +4,7 @@ version = "0.0.1"
 description = "Self-driving AI using the NEAT algorithm"
 maintainers = [
     {name = "Will Skaggs", email = "skaggswi@msu.edu"},
+    {name = "Areeb Islam", email = "islamareeb.21@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.10"
